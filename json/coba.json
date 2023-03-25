@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Ismail Rosid",
+        "umur": 21,
+        "nip": "2021310160",
+        "lulus": false,
+        "hobi": [
+            "ngoding",
+            "tidur"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Asep",
+            "pembimbing2": "Udin"
+        }
+    },
+    {
+        "nama": "Ismail Rosid",
+        "umur": 21,
+        "nip": "2021310160",
+        "lulus": false,
+        "hobi": [
+            "ngoding",
+            "tidur"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Asep",
+            "pembimbing2": "Udin"
+        }
+    }
+]
